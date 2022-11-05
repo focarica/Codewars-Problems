@@ -1,3 +1,5 @@
+//https://www.codewars.com/kata/566fc12495810954b1000030/train/dart
+
 int nbDig(int n, int d) {
   int count = 0;
   List<int> l = [
